@@ -91,6 +91,20 @@
 
 ![case4](https://user-images.githubusercontent.com/101049340/164469787-ae256b94-375c-4ba8-8d60-eaa44cfcb767.jpeg)
 
+# Test Plan
+## High Level Test plan
+| Test ID |	Description |   Exp I/P |	Exp O/P |	Actual Out |	Type of Test | 
+| ----- | ------- | -------- | --------- | --------- | --------- | 
+| HLT_01 |	Seat Switch is ON and Heater Switch is OFF |	Seat Switch is ON |	LED will not GLOW |	SUCCESS |	Requirement Based | 
+| HLT_02 |	Seat Switch is OFF and Heater Switch is ON |	Heater Switch is ON |	LED will not GLOW |	SUCCESS |	Requirement Based |
+ |HLT_03 |	Seat Switch is ON and Heater Switch is ON |	Both Switches are ON |	LED will GLOW |	SUCCESS |	Requirement Based |
+## Low level test plan
+| Test ID |	Description |	Exp I/P |	Exp O/P |	Actual Out |	Type of Test | 
+| ----- | ------ | ------- | --------- | --------- | ---------- |
+| LLR_01 |	Duty Cycle |	20% |	Temperature displayed in the LCD |	SUCCESS |	Requirement Based |
+| LLR_02 |	Duty Cycle |	40% |	Temperature displayed in the LCD |	SUCCESS |	Requirement Based |
+| LLR_03 |	Duty Cycle |	70% |	Temperature displayed in the LCD |	SUCCESS |	Requirement Based |
+| LLR_04 |	Duty Cycle |	95% |	Temperature displayed in the LCD |	SUCCESS |	Requirement Based |
 ## Both Switches ON
 | Duty Cycle |	Output | 
 | ---- | ------- |
