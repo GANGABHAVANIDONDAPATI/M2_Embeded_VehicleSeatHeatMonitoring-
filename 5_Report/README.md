@@ -44,14 +44,16 @@
 * The sensor will sense is the driver has been seated or not and if the driver seated then he need to set the temperature accordingly. Based on that our controller will set the heater to required temperature.
 ## Detail requirements
 ### High Level Requirements
-| ID | Description |	Status |                                                                                                                                                                        | -----| -------- | ------ |
+| ID | Description |	Status  |
+| -----| -------- | ------ |
 | HLR1 |	Microcontroller |      Implemented |
 | HLR2 |	Temperature Sensor |	Implemented |
 | HLR3 |	Heat Generation |	Implemented |
 | HLR4 |	Display |	Implemented |
 | HLR5 |	Software used |	Implemented |
 ### Low Level Requirements
-| ID |     Description |	Status |                                                                                                                                                                   | ------ | ---------- | -------|
+| ID |     Description |	Status |
+| ------ | ---------- | -------|
 | HLR1_LLR1 |	ATmega328 |	Implemented |
 | HLR2_LLR1 |	LM35 and ADC |	Implemented |
 | HLR2_LLR2 |	ADC with PWM |	Implemented |
