@@ -4,3 +4,6 @@
 ![codiga](https://api.codiga.io/project/32974/status/svg)
 
 [![Code Quality - Cppcheck](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/c-cpp.yml)
+
+
+[![Build_CI - Linux](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/linux.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/linux.yml)
