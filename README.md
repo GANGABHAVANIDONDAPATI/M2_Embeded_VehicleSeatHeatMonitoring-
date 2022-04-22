@@ -9,3 +9,5 @@
 [![Build_CI - Linux](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/linux.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/linux.yml)
 
 [![Bulid CI - windows](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/windows.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/windows.yml)
+
+[![Git Inspector](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/GANGABHAVANIDONDAPATI/M2_Embeded_VehicleSeatHeatMonitoring-/actions/workflows/gitinspector.yml)
